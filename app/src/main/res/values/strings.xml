@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Speer Github Search</string>
-    <string name="speer_assessment_proj">Speer Github Search</string>
+    <string name="app_name">Github Search</string>
+    <string name="speer_assessment_proj">Github Search</string>
     <string name="toggle_theme">Toggle Theme</string>
 </resources>
